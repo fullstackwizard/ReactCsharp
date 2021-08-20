@@ -1,4 +1,4 @@
-CRUD C# + REACT (
+CRUD C# + REACT 
     Using VISUAL STUDIO CODE
     Using SQL SERVER MS 18
     Using HTML
@@ -6,14 +6,7 @@ CRUD C# + REACT (
     Using JavaScript
     Using C#
     Using React
-    Using Docker {
-        - docker type
-        - docker yml
-        - docker run
-
-    }
     Using Git version
-)
 
 // #dotnet -> app web asp net core -> {web appreact} -> directory web -> core 5.0 =? React.js conf https 
 
